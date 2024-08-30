@@ -1,1 +1,1 @@
-Exercicíos de revisão de ED1 sobre vetores, matrizes, lista linear, lista duplamente encadeada, pilhas e filas 
+Exercicíos de revisão de ED1 sobre vetores, matrizes, lista linear, lista duplamente ligada, pilhas e filas 
