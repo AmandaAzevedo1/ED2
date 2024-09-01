@@ -53,7 +53,7 @@ int pilhaVazia(){ //função implentada para verificar se a pilha etá vazia
     } return 0; // return 0 se não está vazia
 }
 int main() {
-    pilha = malloc(tamMax * sizeof(int)); //alocação do tam inicial da pilha 
+    pilha = malloc(tamMax * sizeof(int)); //alocação do tam max inicial da pilha 
     pilhaVazia(); //chamando a função para verificar se a pilha está vazia
     push(10); // chamando a função de inserir elementoss
     push(20);
