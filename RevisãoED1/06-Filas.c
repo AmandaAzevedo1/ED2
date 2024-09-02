@@ -115,7 +115,7 @@ int main() {
     printQueue(q);
     printf("Desenfileirado: %d\n", dequeue(q));
     printQueue(q);
-    enqueue(q, 40);//inserindo novos elementos na fila para ultilizar a função limpar 
+    enqueue(q, 40);//inserindo novos elementos na fila para ultilizar a função limpar e a função contar elementos 
     enqueue(q, 50);
     enqueue(q, 60);
     printQueue(q);
