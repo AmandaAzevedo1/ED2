@@ -11,7 +11,7 @@ int main() {
     //declaração das variaveis fixas
     int vetor[5] = {0, 1, 2, 3, 4};
     int i, temp;
-    int n=5;
+    int n=5; //declarando inicialmente o tamanho do vetor e os elementos dele 
 
     //for para inverter o vetor
     // n/2 para dividir o vetor e conseguir inverter as duas metades 
