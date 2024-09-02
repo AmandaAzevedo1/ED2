@@ -1,3 +1,4 @@
+//Escolhi implementar a função adicional buscar 
 #include <stdio.h>
 #define MAX_SIZE 10
 
