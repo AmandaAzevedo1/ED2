@@ -1,1 +1,1 @@
-
+Ao analisar os dados do tempo de execução para cada valor de entrada e  gráfico para os dois tipos de busca (sequencial e binária), é possível concluir que para o cenári do E-commerce, onde há oum grande volume de dados, a melhor solução é a implementação da busca biária, visto que ela possui um neor tempo de execução em comparação com a sequencial. 
